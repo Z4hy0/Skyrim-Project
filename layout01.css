@@ -7,14 +7,13 @@ body {
 	background-color: #21201e;
 	color: #fff;
 	background-image: url(skyrim.jpg);
-	background-size: auto 100%;
+	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
-
+    background-attachment: fixed;
 }
 
 .topo {
-    background-color: #21201e;
     color: #fff;
     padding: 10px;
     display: flex;
@@ -44,8 +43,6 @@ body {
 }
 
 #rodape {
-    background-color: #21201e;
-    flex: auto;
     color: #fff;
     padding: 10px;
     text-align: center;
