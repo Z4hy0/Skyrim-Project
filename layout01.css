@@ -29,6 +29,11 @@ body {
     text-decoration: none;
     margin-right: 10px;
 }
+.topo a:hover{
+    background-color: #fff;
+    color: #21201e;
+    border-radius: 10px;
+}
 #conteudo {
     padding: 20px;
     text-align: justify;
